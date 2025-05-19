@@ -5,8 +5,10 @@ const Navbar = () => {
     <>
     <nav class="navbar bg-primary navbar-dark">
         <div class="container-fluid">
-            <span class="navbar-brand mb-0 h1">Coach TravelService</span>
-            <span class="text-white">user@example.com</span>
+            <div className="container">
+                <span class="navbar-brand mb-0 h1">Coach TravelService</span>
+                <span class="text-white">user@example.com</span>
+            </div>
         </div>
     </nav>
     
