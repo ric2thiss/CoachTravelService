@@ -5,21 +5,21 @@ const TravelCards = () => {
     {
       title: 'Paris, France',
       description: 'Romantic getaway including flight and 3 nights hotel stay.',
-      price: 'Only $499',
+      price: 'Only PHP 499',
       image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=400&h=200&q=80',
       alt: 'Paris'
     },
     {
       title: 'Tokyo, Japan',
       description: 'Modern meets tradition: Includes guided tours and hotel.',
-      price: 'Only $699',
+      price: 'Only PHP 699',
       image: 'https://images.unsplash.com/photo-1549692520-acc6669e2f0c?auto=format&fit=crop&w=400&h=200&q=80',
       alt: 'Tokyo'
     },
     {
       title: 'Bali, Indonesia',
       description: 'Beachside resort with spa package. 5 nights all-inclusive.',
-      price: 'Only $899',
+      price: 'Only PHP 899',
       image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=400&h=200&q=80',
       alt: 'Bali'
     }
